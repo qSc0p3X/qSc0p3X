@@ -5,9 +5,31 @@
 # qSc0p3X　　
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qSc0p3X&theme=2077)
 
+# Contact Me
+<div align="center">
+<a href="https://twitter.com/qSc0p3X" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,nodejs,react,next,materialui,python,fastapi,go,docker,vscode,githubactions,postgres,redis,aws,gcp" />
-<br>
+
+- Go
+- Echo
+- Python
+- Fastapi
+- Typescript
+- Node.js
+- Express.js
+- React
+- Next.js
+- MUI
+- Auth.js
+- github actions
+- Cognito
+- Opensearch
+
 
 # trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=qSc0p3X&theme=radical&column=7
