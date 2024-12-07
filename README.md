@@ -1,14 +1,14 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=14n3rukDayo" />
+  <img src="https://komarev.com/ghpvc/?username=qSc0p3X" />
 </div>
 
-# 14n3rukDayo　　
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14n3rukDayo&theme=2077)
+# qSc0p3X　　
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qSc0p3X&theme=2077)
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,nodejs,react,next,materialui,python,fastapi,go,docker,vscode,githubactions,postgres,redis,aws,gcp" />
 <br>
 
 # trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=14n3rukDayo&theme=radical&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=qSc0p3X&theme=radical&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
