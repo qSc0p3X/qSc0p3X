@@ -1,7 +1,16 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14n3rukDayo&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=14n3rukDayo&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=14n3rukDayo" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=14n3rukDayo&theme=onedark&column=7
+# 14n3rukDayo　　
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=14n3rukDayo&theme=2077)
+# Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=14n3rukDayo&repo=sample_search_engine&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,nodejs,react,next,materialui,python,fastapi,go,docker,vscode,githubactions,postgres,redis,aws,gcp" />
+<br>
+
+# trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=14n3rukDayo&theme=radical&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
