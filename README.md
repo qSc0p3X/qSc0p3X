@@ -29,6 +29,8 @@
 - github actions
 - Cognito
 - Opensearch
+- DDD
+- Layered Architecture
 
 
 # trophy
