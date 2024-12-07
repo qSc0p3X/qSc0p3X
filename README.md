@@ -17,7 +17,7 @@
 
 
 
-## 🌱 Skills
+## Skills
 
 - Go
 - Echo
