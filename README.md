@@ -34,8 +34,3 @@
 | **✨ Others**         | DDD, Layered Architecture,                         |
 
 
-
-
-# trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=qSc0p3X&theme=radical&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
