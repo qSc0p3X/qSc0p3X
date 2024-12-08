@@ -15,26 +15,25 @@
 </a>  
 </div>  
 
+# My projects
+| Repository Name                                 | Description                                                          | Tech Stack                  |
+|------------------------------------------------|----------------------------------------------------------------------|-----------------------------|
+| [sample_search_engine](https://github.com/qSc0p3X/sample_search_engine)   |　Japanese Full-Text Search Engine   | Golang, Echo, python, Fastapi, spacy, Redis, Layered Architecture, Docker  |
+
 
 
 ## Skills
 
-- Go
-- Echo
-- Python
-- Fastapi
-- Typescript
-- Node.js
-- Express.js
-- React
-- Next.js
-- MUI
-- Auth.js
-- github actions
-- Cognito
-- Opensearch
-- DDD
-- Layered Architecture
+
+| Category            | Technologies and Tools                                      |
+|---------------------|-------------------------------------------------------------|
+| **🔧 Backend**       | Go,  Echo, Python, FastAPI, TypeScript, Node.js, Express.js |
+| **🎨 Frontend**      | TypeScript, React, Next.js, MUI, Auth.js                             |
+| **☁️ Infrastructure** | OpenSearch, Cognito,Redis, SQL Databases|
+| **🚀 DevOps**         | GitHub Actions                                             |
+| **✨ Others**         | DDD, Layered Architecture,                         |
+
+
 
 
 # trophy
