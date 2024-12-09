@@ -29,7 +29,7 @@
 |---------------------|-------------------------------------------------------------|
 | **🔧 Backend**       | Go,  Echo, Python, FastAPI, TypeScript, Node.js, Express.js |
 | **🎨 Frontend**      | TypeScript, React, Next.js, MUI, Auth.js                             |
-| **☁️ Infrastructure** | OpenSearch, Cognito,Redis, SQL Databases|
+| **☁️ Infrastructure** | OpenSearch, Cognito,Redis, SQL Databases, Firebase, etc|
 | **🚀 DevOps**         | GitHub Actions                                             |
 | **✨ Others**         | DDD, Layered Architecture,                         |
 
