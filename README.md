@@ -19,6 +19,7 @@
 | Repository Name                                 | Description                                                          | Tech Stack                  |
 |------------------------------------------------|----------------------------------------------------------------------|-----------------------------|
 | [sample_search_engine](https://github.com/qSc0p3X/sample_search_engine)   |　Japanese Full-Text Search Engine   | Golang, Echo, python, Fastapi, spacy, Redis, Layered Architecture, Docker  |
+| [sample_rag_system](https://github.com/qSc0p3X/sample_rag_system)   |　Chats API that uses RAG  | python, Fastapi, LangChain, ollama, Docker  |
 
 
 
